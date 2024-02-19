@@ -24,4 +24,4 @@ export type Project = {
 //   },
 // ];
 
-export default projects;
+// export default projects;

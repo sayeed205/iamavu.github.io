@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "hello, friend",
   profile: "public/profile.png",
   description:
-    "she dwells into anything security",
+    "she dwells into anything and everything computer security",
   socials: [
     {
       label: "x/twitter",

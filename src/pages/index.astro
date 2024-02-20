@@ -50,10 +50,10 @@ const posts = (await getCollection("posts")).sort(function (first, second) {
 
     <article class="flex flex-col gap-8">
       <header class="flex w-full flex-row justify-between gap-2">
-        <h3 class="text-lg text-neutral-100">Latest posts</h3>
+        <h3 class="text-lg text-neutral-100">latest posts</h3>
         <Link href="/posts" label="see all posts" isUnderline target="_self" />
       </header>
-      {posts.length === 0 && <p>Soon, stay connected 👀...</p>}
+      {posts.length === 0 && <p>coming soon...</p>}
 
       <section class="flex flex-col gap-4 md:flex-row md:flex-wrap">
         {
@@ -88,18 +88,18 @@ const posts = (await getCollection("posts")).sort(function (first, second) {
       </section>
     </article> -->
 
-    <article class="flex flex-col gap-8">
+    <!-- <article class="flex flex-col gap-8">
       <header class="flex w-full flex-row justify-between gap-2">
-        <h3 class="text-lg text-neutral-100">Get in touch</h3>
+        <h3 class="text-lg text-neutral-100">contact avantika</h3>
       </header>
       <p>
-        Email me at <Link
+        email her at <Link
           href={`mailto:${presentation.mail}`}
           label={presentation.mail}
-        /> or follow me via my social links.
+        /> or follow her via her socials.
       </p>
 
       <SocialLinks />
-    </article>
+    </article> -->
   </main>
 </Layout>

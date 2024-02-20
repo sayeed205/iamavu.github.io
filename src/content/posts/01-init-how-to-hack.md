@@ -137,7 +137,7 @@ and oh, if you want to reach out to me, feel free to do so at
 
 get set and pwn and happy hacking :D
 
-![hack](/public/img/01-init-how-to-hack/hack.gif)
+![hack](./public/img/01-init-how-to-hack/hack.gif)
 
 **references :**
 

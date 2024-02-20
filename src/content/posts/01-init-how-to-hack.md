@@ -2,7 +2,7 @@
 title: "#init how to hack"
 publishedAt: 2020-09-07
 description: "learn hacking the hacker way"
-slug: "#init-how-to-hack"
+slug: "init-how-to-hack"
 isPublish: true
 ---
 

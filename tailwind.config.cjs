@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        mono: ["JetBrains Mono", "monospace"],
+        mono: ["var(--font-jetbrains-mono)", ...defaultTheme.fontFamily.mono],
       },
     },
   },

@@ -10,19 +10,19 @@ const posts = (await getCollection("posts")).sort(function (first, second) {
 
 <Layout title="template - all posts">
   <main class="flex flex-col gap-20">
-    <h1 class="text-4xl text-neutral-100">posts</h1>
+    <h1 class="text-2xl text-neutral-100">posts</h1>
 
-    <article class="flex flex-col gap-4">
+    <article class="flex flex-col gap-20">
       {
         posts.map((post) => (
           <a
-            class="group flex flex-col gap-2 border-t border-neutral-700 py-4 transition-all hover:text-neutral-100"
+            class="group flex flex-col gap-10 border-t border-neutral-700 py-4 transition-all hover:text-neutral-100"
             href={`/posts/${post.slug}`}
           >
             <div class="flex w-full items-center justify-between">
               <h2 class="text-lg">{post.data.title}</h2>
 
-              <div class="flex flex-row items-center gap-4">
+              <div class="flex flex-row items-center gap-8">
                 <p>{formatDate(post.data.publishedAt)}</p>
                 <svg
                   width="18"

@@ -12,7 +12,7 @@ export default defineConfig({
   markdown: {
     syntaxHighlight: "shiki",
     shikiConfig: {
-      theme: "catppuccin macchiato",
+      theme: "nord",
       wrap: false
     }
   }

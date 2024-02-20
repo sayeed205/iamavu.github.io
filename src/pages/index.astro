@@ -34,8 +34,8 @@ const posts = (await getCollection("posts")).sort(function (first, second) {
         )
       }
 
-      <div class="flex flex-col gap-16">
-        <h1 class="text-4xl text-neutral-100">
+      <div class="flex flex-col gap-8">
+        <h1 class="text-3xl text-neutral-100">
           {presentation.title}
         </h1>
 
@@ -48,14 +48,14 @@ const posts = (await getCollection("posts")).sort(function (first, second) {
       </div>
     </article>
 
-    <article class="flex flex-col gap-16">
-      <header class="flex w-full flex-row justify-between gap-4">
-        <h3 class="text-2xl text-neutral-100">latest posts</h3>
+    <article class="flex flex-col gap-8">
+      <header class="flex w-full flex-row justify-between gap-2">
+        <h3 class="text-lg text-neutral-100">latest posts</h3>
         <Link href="/posts" label="see all posts" isUnderline target="_self" />
       </header>
       {posts.length === 0 && <p>coming soon...</p>}
 
-      <section class="flex flex-col gap-8 md:flex-row md:flex-wrap">
+      <section class="flex flex-col gap-4 md:flex-row md:flex-wrap">
         {
           posts.length !== 0 &&
             posts

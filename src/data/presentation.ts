@@ -16,10 +16,10 @@ const presentation: Presentation = {
   title: "hello, friend",
   profile: "public/profile.png",
   description:
-    "she dwells into anything and everything computer security",
+    "welcome to avantika's wanderings, where she dwells into anything and everything computer security. enjoy your stay <3",
   socials: [
     {
-      label: "x/twitter",
+      label: "x",
       link: "https://twitter.com/iamavu",
     },
     {

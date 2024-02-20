@@ -7,7 +7,7 @@ isPublish: true
 ---
 
 # #init how to hack
-![](/public/img/01//is-this-hacking.png)
+![](/public/img/01-init-how-to-hack/is-this-hacking.png)
 
 we all saw this, black hoodie, green text on the screen, and what not and after a second the person says *“i’m in”*.
 well, hold your horses and your computers, that is not actual hacking.
@@ -35,7 +35,7 @@ hacking is a really broad term.
 numerous things come under it, like really a lot of stuff, you can get lost in it, if you just go here and there and look and try out things without knowing what to do and what to learn, it can be overwhelming and you might get disheartened.
 have a look at this image which briefly covers the network of cyber security.
 
-![](/public/img/01/init-how-to-hack/roadmap.png)
+![](/public/img/01-init-how-to-hack/roadmap.png)
 image courtesy : [linkedin](https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang/)
 
 whoa whoa, that’s a lot and it’s not green text :p
@@ -70,7 +70,7 @@ this is why we need people who will secure the device or browser which you are r
 but wait, i heard there are bad people too, who use the knowledge of hacking for their benefits, those are called unethical hackers, who do things without anyone’s permissions and then there is a nice part which is ethical hacking, people who do ethical hacking are called ethical hackers and they prevent and test systems so that unethical ones won’t be able to bring your systems down.
 there is also a spectrum which might help you understand a bit better
 
-![](/public/img/01/init-how-to-hack/threat-spectrum.png)image courtesy: [spectrum](https://www.digitalshadows.com/uploads/2019/09/the-cyber-threat-spectrum-source-fbi-cyber-division.png)
+![](/public/img/01-init-how-to-hack/threat-spectrum.png)image courtesy: [spectrum](https://www.digitalshadows.com/uploads/2019/09/the-cyber-threat-spectrum-source-fbi-cyber-division.png)
 
 so i got that much, but how do i proceed?
 where are the resources? how do i do this and that? how do i learn
@@ -137,7 +137,7 @@ and oh, if you want to reach out to me, feel free to do so at
 
 get set and pwn and happy hacking :d
 
-![](/public/img/01/hack.gif)
+![](/public/img/01-init-how-to-hack/hack.gif)
 
 **references :**
 

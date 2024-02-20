@@ -23,12 +23,12 @@ const presentation: Presentation = {
       link: "https://twitter.com/iamavu",
     },
     {
-      label: "bento",
-      link: "https://bento.me/iamavu",
-    },
-    {
       label: "github",
       link: "https://github.com/iamavu",
+    },
+    {
+      label: "linkedin",
+      link: "https://www.linkedin.com/in/iamavu/",
     },
   ],
 };
